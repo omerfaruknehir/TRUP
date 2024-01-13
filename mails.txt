@@ -1,0 +1,353 @@
+
+
+
+
+# MAIL
+    FROM: omerfaruknehir@gmail.com
+      TO: 801ders@gmail.com
+ SUBJECT: Şifre Sıfırlama
+    BODY: 
+<!DOCTYPE html>
+<html>
+    <body>
+        <p>Şifre sıfırlama işleminize devam etmek için tıklayınız.</p>
+        <a href="http://127.0.0.1:5000/complete-session/4261bcde56c3cf9c251f3ad3606db1b58b593bcba6b09e0787783241c6b333fe"><button>Devam et</button></a><br>
+        <h6>TRUP tarafından otomatik olarak gönderilmiştir. Eğer siz talep etmediyseniz göz ardı edebilir, veya TRUP websitesine giriş yaparak tehlikeli bir durum olup olmadığını kontrol edebilirsiniz.</h6>
+    </body>
+</html>
+
+
+
+# MAIL
+    FROM: omerfaruknehir@gmail.com
+      TO: 801ders@gmail.com
+ SUBJECT: Şifre Sıfırlama
+    BODY: 
+<!DOCTYPE html>
+<html>
+    <body>
+        <p>Şifre sıfırlama işleminize devam etmek için tıklayınız.</p>
+        <a href="http://127.0.0.1:5000/complete-session/aef3dfa1cc7061ad55cd4606d32bfdf4bd863b8d778c6c974f7cfdd916bd94b7"><button>Devam et</button></a><br>
+        <h6>TRUP tarafından otomatik olarak gönderilmiştir. Eğer siz talep etmediyseniz göz ardı edebilir, veya TRUP websitesine giriş yaparak tehlikeli bir durum olup olmadığını kontrol edebilirsiniz.</h6>
+    </body>
+</html>
+
+
+
+# MAIL
+    FROM: omerfaruknehir@gmail.com
+      TO: 801ders@gmail.com
+ SUBJECT: Şifre Sıfırlama
+    BODY: 
+<!DOCTYPE html>
+<html>
+    <body>
+        <p>Şifre sıfırlama işleminize devam etmek için tıklayınız.</p>
+        <a href="http://127.0.0.1:5000/api/complete-session/9d6edd78ef66d9cc8ebd589509985a497e4627ac43abd9f51cfdbbc90b32f166"><button>Devam et</button></a><br>
+        <h6>TRUP tarafından otomatik olarak gönderilmiştir. Eğer siz talep etmediyseniz göz ardı edebilir, veya TRUP websitesine giriş yaparak tehlikeli bir durum olup olmadığını kontrol edebilirsiniz.</h6>
+    </body>
+</html>
+
+
+
+# MAIL
+    FROM: omerfaruknehir@gmail.com
+      TO: 801ders@gmail.com
+ SUBJECT: Şifre Sıfırlama
+    BODY: 
+<!DOCTYPE html>
+<html>
+    <body>
+        <p>Şifre sıfırlama işleminize devam etmek için tıklayınız.</p>
+        <a href="http://127.0.0.1:5000/api/complete-session/7742690f5911fbff7a6fc5d5dc6220c4442860166105ccfc6dd832411cc1d423"><button>Devam et</button></a><br>
+        <h6>TRUP tarafından otomatik olarak gönderilmiştir. Eğer siz talep etmediyseniz göz ardı edebilir, veya TRUP websitesine giriş yaparak tehlikeli bir durum olup olmadığını kontrol edebilirsiniz.</h6>
+    </body>
+</html>
+
+
+
+# MAIL
+    FROM: omerfaruknehir@gmail.com
+      TO: 801ders@gmail.com
+ SUBJECT: Şifre Sıfırlama
+    BODY: 
+<!DOCTYPE html>
+<html>
+    <body>
+        <p>Şifre sıfırlama işleminiz bitmiştir, yeni şifreniz aşağıdadır.</p>
+        <h3>b&#39;/\x88\xac\xcc&#39;</h3><br>
+        <h6>TRUP tarafından otomatik olarak gönderilmiştir. Eğer siz talep etmediyseniz göz ardı edebilir, veya TRUP websitesine giriş yaparak tehlikeli bir durum olup olmadığını kontrol edebilirsiniz.</h6>
+    </body>
+</html>
+
+
+
+# MAIL
+    FROM: omerfaruknehir@gmail.com
+      TO: 801ders@gmail.com
+ SUBJECT: Şifre Sıfırlama
+    BODY: 
+<!DOCTYPE html>
+<html>
+    <body>
+        <p>Şifre sıfırlama işleminiz bitmiştir, yeni şifreniz aşağıdadır.</p>
+        <h3>b&#39;L\t\xcdC&#39;</h3><br>
+        <h6>TRUP tarafından otomatik olarak gönderilmiştir. Eğer siz talep etmediyseniz göz ardı edebilir, veya TRUP websitesine giriş yaparak tehlikeli bir durum olup olmadığını kontrol edebilirsiniz.</h6>
+    </body>
+</html>
+
+
+
+# MAIL
+    FROM: omerfaruknehir@gmail.com
+      TO: 801ders@gmail.com
+ SUBJECT: Şifre Sıfırlama
+    BODY: 
+<!DOCTYPE html>
+<html>
+    <body>
+        <p>Şifre sıfırlama işleminize devam etmek için tıklayınız.</p>
+        <a href="http://127.0.0.1:5000/api/complete-session/f69e93cbc49f0b68063c67bb5566d3439666d2a691f9ffd683821d8e20529377"><button>Devam et</button></a><br>
+        <h6>TRUP tarafından otomatik olarak gönderilmiştir. Eğer siz talep etmediyseniz göz ardı edebilir, veya TRUP websitesine giriş yaparak tehlikeli bir durum olup olmadığını kontrol edebilirsiniz.</h6>
+    </body>
+</html>
+
+
+
+# MAIL
+    FROM: omerfaruknehir@gmail.com
+      TO: 801ders@gmail.com
+ SUBJECT: Şifre Sıfırlama
+    BODY: 
+<!DOCTYPE html>
+<html>
+    <body>
+        <p>Şifre sıfırlama işleminiz bitmiştir, yeni şifreniz aşağıdadır.</p>
+        <h3>3601721950</h3><br>
+        <h6>TRUP tarafından otomatik olarak gönderilmiştir. Eğer siz talep etmediyseniz göz ardı edebilir, veya TRUP websitesine giriş yaparak tehlikeli bir durum olup olmadığını kontrol edebilirsiniz.</h6>
+    </body>
+</html>
+
+
+
+# MAIL
+    FROM: omerfaruknehir@gmail.com
+      TO: 801ders@gmail.com
+ SUBJECT: Şifre Sıfırlama
+    BODY: 
+<!DOCTYPE html>
+<html>
+    <body>
+        <p>Şifre sıfırlama işleminize devam etmek için tıklayınız.</p>
+        <a href="http://127.0.0.1:5000/api/complete-session/e7e9d5621749db75806a17626ffcaddfed5932c9626d75ba7e1759a7053409b4"><button>Devam et</button></a><br>
+        <h6>TRUP tarafından otomatik olarak gönderilmiştir. Eğer siz talep etmediyseniz göz ardı edebilir, veya TRUP websitesine giriş yaparak tehlikeli bir durum olup olmadığını kontrol edebilirsiniz.</h6>
+    </body>
+</html>
+
+
+
+# MAIL
+    FROM: omerfaruknehir@gmail.com
+      TO: 801ders@gmail.com
+ SUBJECT: Şifre Sıfırlama
+    BODY: 
+<!DOCTYPE html>
+<html>
+    <body>
+        <p>Şifre sıfırlama işleminize devam etmek için tıklayınız.</p>
+        <a href="http://127.0.0.1:5000/api/complete-session/6e7028ec6db9b479d3b94fa6fe5bd3de5c68d9e2965cdfc15065f5a2fc9a277f"><button>Devam et</button></a><br>
+        <h6>TRUP tarafından otomatik olarak gönderilmiştir. Eğer siz talep etmediyseniz göz ardı edebilir, veya TRUP websitesine giriş yaparak tehlikeli bir durum olup olmadığını kontrol edebilirsiniz.</h6>
+    </body>
+</html>
+
+
+
+# MAIL
+    FROM: omerfaruknehir@gmail.com
+      TO: 801ders@gmail.com
+ SUBJECT: Şifre Sıfırlama
+    BODY: 
+<!DOCTYPE html>
+<html>
+    <body>
+        <p>Şifre sıfırlama işleminiz bitmiştir, yeni şifreniz aşağıdadır.</p>
+        <h3>4031429736</h3><br>
+        <h6>TRUP tarafından otomatik olarak gönderilmiştir. Eğer siz talep etmediyseniz göz ardı edebilir, veya TRUP websitesine giriş yaparak tehlikeli bir durum olup olmadığını kontrol edebilirsiniz.</h6>
+    </body>
+</html>
+
+
+
+# MAIL
+    FROM: omerfaruknehir@gmail.com
+      TO: omerfaruknehir@gmail.com
+ SUBJECT: Şifre Sıfırlama
+    BODY: 
+<!DOCTYPE html>
+<html>
+    <body>
+        <p>Şifre sıfırlama işleminize devam etmek için tıklayınız.</p>
+        <a href="http://127.0.0.1:5000/api/complete-session/5f442aa5fe21bb040f2cbfdb8c048e3540278775a1cf4c69a96a2a52f02be60d"><button>Devam et</button></a><br>
+        <h6>TRUP tarafından otomatik olarak gönderilmiştir. Eğer siz talep etmediyseniz göz ardı edebilir, veya TRUP websitesine giriş yaparak tehlikeli bir durum olup olmadığını kontrol edebilirsiniz.</h6>
+    </body>
+</html>
+
+
+
+# MAIL
+    FROM: omerfaruknehir@gmail.com
+      TO: omerfaruknehir@gmail.com
+ SUBJECT: Şifre Sıfırlama
+    BODY: 
+<!DOCTYPE html>
+<html>
+    <body>
+        <p>Şifre sıfırlama işleminize devam etmek için tıklayınız.</p>
+        <a href="http://127.0.0.1:5000/api/complete-session/762f85850b432ac8e3dec75b390774fa32cb538ba5dd297022bdb7cdd5827a6e"><button>Devam et</button></a><br>
+        <h6>TRUP tarafından otomatik olarak gönderilmiştir. Eğer siz talep etmediyseniz göz ardı edebilir, veya TRUP websitesine giriş yaparak tehlikeli bir durum olup olmadığını kontrol edebilirsiniz.</h6>
+    </body>
+</html>
+
+
+
+# MAIL
+    FROM: omerfaruknehir@gmail.com
+      TO: omerfaruknehir@gmail.com
+ SUBJECT: Şifre Sıfırlama
+    BODY: 
+<!DOCTYPE html>
+<html>
+    <body>
+        <p>Şifre sıfırlama işleminize devam etmek için tıklayınız.</p>
+        <a href="http://127.0.0.1:5000/api/complete-session/312f050696dc6c9baefa90aa93c7f3bc0eb688580749cb7db274060b4841ac7b"><button>Devam et</button></a><br>
+        <h6>TRUP tarafından otomatik olarak gönderilmiştir. Eğer siz talep etmediyseniz göz ardı edebilir, veya TRUP websitesine giriş yaparak tehlikeli bir durum olup olmadığını kontrol edebilirsiniz.</h6>
+    </body>
+</html>
+
+
+
+# MAIL
+    FROM: omerfaruknehir@gmail.com
+      TO: omerfaruknehir@gmail.com
+ SUBJECT: Şifre Sıfırlama
+    BODY: 
+<!DOCTYPE html>
+<html>
+    <body>
+        <p>Şifre sıfırlama işleminize devam etmek için tıklayınız.</p>
+        <a href="http://127.0.0.1:5000/api/complete-session/f3d10e0354be878fc370d0f6019cf26ad827c4c86a311021e7c54b6f1395d6be"><button>Devam et</button></a><br>
+        <h6>TRUP tarafından otomatik olarak gönderilmiştir. Eğer siz talep etmediyseniz göz ardı edebilir, veya TRUP websitesine giriş yaparak tehlikeli bir durum olup olmadığını kontrol edebilirsiniz.</h6>
+    </body>
+</html>
+
+
+
+# MAIL
+    FROM: omerfaruknehir@gmail.com
+      TO: omerfaruknehir@gmail.com
+ SUBJECT: Şifre Sıfırlama
+    BODY: 
+<!DOCTYPE html>
+<html>
+    <body>
+        <p>Şifre sıfırlama işleminiz bitmiştir, yeni şifreniz aşağıdadır.</p>
+        <h3>3076668197</h3><br>
+        <h6>TRUP tarafından otomatik olarak gönderilmiştir. Eğer siz talep etmediyseniz göz ardı edebilir, veya TRUP websitesine giriş yaparak tehlikeli bir durum olup olmadığını kontrol edebilirsiniz.</h6>
+    </body>
+</html>
+
+
+
+# MAIL
+    FROM: omerfaruknehir@gmail.com
+      TO: omerfaruknehir@gmail.com
+ SUBJECT: Şifre Sıfırlama
+    BODY: 
+<!DOCTYPE html>
+<html>
+    <body>
+        <p>Şifre sıfırlama işleminize devam etmek için tıklayınız.</p>
+        <a href="http://127.0.0.1:5000/api/complete-session/238f01cbb561648014263b06bdff8224cc65b92e6b333985ae63e768b1aae54d"><button>Devam et</button></a><br>
+        <h6>TRUP tarafından otomatik olarak gönderilmiştir. Eğer siz talep etmediyseniz göz ardı edebilir, veya TRUP websitesine giriş yaparak tehlikeli bir durum olup olmadığını kontrol edebilirsiniz.</h6>
+    </body>
+</html>
+
+
+
+# MAIL
+    FROM: omerfaruknehir@gmail.com
+      TO: omerfaruknehir@gmail.com
+ SUBJECT: Şifre Sıfırlama
+    BODY: 
+<!DOCTYPE html>
+<html>
+    <body>
+        <p>Şifre sıfırlama işleminiz bitmiştir, yeni şifreniz aşağıdadır.</p>
+        <h3>3xXJ9dccAx</h3><br>
+        <h6>TRUP tarafından otomatik olarak gönderilmiştir. Eğer siz talep etmediyseniz göz ardı edebilir, veya TRUP websitesine giriş yaparak tehlikeli bir durum olup olmadığını kontrol edebilirsiniz.</h6>
+    </body>
+</html>
+
+
+
+# MAIL
+    FROM: omerfaruknehir@gmail.com
+      TO: omerfaruknehir@gmail.com
+ SUBJECT: Şifre Sıfırlama
+    BODY: 
+<!DOCTYPE html>
+<html>
+    <body>
+        <p>Şifre sıfırlama işleminize devam etmek için tıklayınız.</p>
+        <a href="http://127.0.0.1:5000/api/complete-session/93fc12d508eecdb2b2e6c59625d275c46a14cce10e9849012ea0e50d949187fa"><button>Devam et</button></a><br>
+        <h6>TRUP tarafından otomatik olarak gönderilmiştir. Eğer siz talep etmediyseniz göz ardı edebilir, veya TRUP websitesine giriş yaparak tehlikeli bir durum olup olmadığını kontrol edebilirsiniz.</h6>
+    </body>
+</html>
+
+
+
+# MAIL
+    FROM: omerfaruknehir@gmail.com
+      TO: omerfaruknehir@gmail.com
+ SUBJECT: Şifre Sıfırlama
+    BODY: 
+<!DOCTYPE html>
+<html>
+    <body>
+        <p>Şifre sıfırlama işleminiz bitmiştir, yeni şifreniz aşağıdadır.</p>
+        <h3>hZMDSY--2b</h3><br>
+        <h6>TRUP tarafından otomatik olarak gönderilmiştir. Eğer siz talep etmediyseniz göz ardı edebilir, veya TRUP websitesine giriş yaparak tehlikeli bir durum olup olmadığını kontrol edebilirsiniz.</h6>
+    </body>
+</html>
+
+
+
+# MAIL
+    FROM: omerfaruknehir@gmail.com
+      TO: omerfaruknehir@gmail.com
+ SUBJECT: Şifre Sıfırlama
+    BODY: 
+<!DOCTYPE html>
+<html>
+    <body>
+        <p>Şifre sıfırlama işleminize devam etmek için tıklayınız.</p>
+        <a href="http://127.0.0.1:5000/api/complete-session/3f3ca71ff179f9d707c16bde84efce6965a8a5f962e4d41b228301613a7008f8"><button>Devam et</button></a><br>
+        <h6>TRUP tarafından otomatik olarak gönderilmiştir. Eğer siz talep etmediyseniz göz ardı edebilir, veya TRUP websitesine giriş yaparak tehlikeli bir durum olup olmadığını kontrol edebilirsiniz.</h6>
+    </body>
+</html>
+
+
+
+# MAIL
+    FROM: omerfaruknehir@gmail.com
+      TO: omerfaruknehir@gmail.com
+ SUBJECT: Şifre Sıfırlama
+    BODY: 
+<!DOCTYPE html>
+<html>
+    <body>
+        <p>Şifre sıfırlama işleminiz bitmiştir, yeni şifreniz aşağıdadır.</p>
+        <h3>_xODc68Qo7</h3><br>
+        <h6>TRUP tarafından otomatik olarak gönderilmiştir. Eğer siz talep etmediyseniz göz ardı edebilir, veya TRUP websitesine giriş yaparak tehlikeli bir durum olup olmadığını kontrol edebilirsiniz.</h6>
+    </body>
+</html>

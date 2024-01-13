@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en" class="bg-dark text-light">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>{{title}}</title>
+    <!-- Bootstrap CDN -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/public/stylesheets/trup.css">
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+
+    $head
+</head>
+
+<body class="bg-dark">
+    <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-danger" style="min-height: 60px; padding-left: 55px;">
+        <a class="navbar-brand" href="/">
+            <img src="/favicon.ico" style="position: absolute; left: 10px; top: 10px;" width="40" height="40"
+                alt="Logo">
+            TRUP
+        </a>
+        <button class="navbar-toggler text-left" style="margin-right: 0px;" type="button" data-toggle="collapse"
+            data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+            aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse bg-danger" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item{{' active' if page.lower()=='home' else ''}}">
+                    <a class="nav-link" href="/">Anasayfa</a>
+                </li>
+                <li class="nav-item {{' active' if page.lower()=='store' else ''}}">
+                    <a class="nav-link" href="/store">Mağaza</a>
+                </li>
+                <li class="nav-item {{' active' if page.lower()=='library' else ''}}">
+                    <a class="nav-link" href="/library">Kütüphane</a>
+                </li>
+                <li class="nav-item {{' active' if page.lower()=='community' else ''}}">
+                    <a class="nav-link" href="/community">Topluluk</a>
+                </li>
+            </ul>
+            <a href="{{loginredirect}}" style="right: 0px; margin-left: 20px; margin-right: 45px;"
+                class="d-inline-block navbar-brand">
+                <p class="d-inline" style="margin-right: 5px;">{{username}}</p>
+                <img height="40px" style="margin-top: -5px; margin-left: 10px;"
+                    class="d-inline-block bg-dark rounded-sm position-absolute" title="Didn't you like it?" src="{{profilephoto}}">
+            </a>
+            <!--<form class="form-inline my-2 my-lg-0">
+                <input class="form-control mr-sm-2 btn-dark bg-dark" style="display: inline-block !important;" type="search" placeholder="Ara"
+                    aria-label="Search">
+                <button class="btn bg-dark my-2 my-sm-0 btn-dark" style="display: inline-block !important;" type="submit">Ara</button>
+            </form>-->
+        </div>
+    </nav>
+
+    $body
+
+    <!-- jQuery CDN -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <!-- Bootstrap CDN -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+</body>
+
+</html>

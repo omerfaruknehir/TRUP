@@ -1,0 +1,16 @@
+<h1>Your Account</h1>
+<img src="/profile-photo-256" class="rounded-lg" alt="!YOUR UNIQUE PROFILE PHOTO!" title="Sorry you cannot change : | (At leastly for now!)"><br><br>
+<form action="/update-account" method="POST">
+<label for="name">Name</label>
+<input name="name" type="text" value="{{name}}"><br>
+<label for="username">Username</label>
+<input name="username" type="text" value="{{username}}"><br>
+<label for="email">E-mail</label>
+<input name="email" type="email" value="{{email}}"><br>
+<label for="password">Password (Most-Secret)</label>
+<input name="old_password" type="password" title="Couldn't copy? (lol)" value="68747470733a2f2f7777772e796f75747562652e636f6d2f77617463683f763d6451773477395767586351">
+<br>
+<input type="submit" value="Save Account Data" title="Btw you need to enter your password correctly!">
+</form>
+<br>
+Don't <a href="/logout">Logout</a> pls!

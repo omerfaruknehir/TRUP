@@ -1,0 +1,10 @@
+python-dotenv
+cryptography
+flask
+pyargon2
+flask-login
+pillow
+torch
+langid
+transformers
+#portalocker

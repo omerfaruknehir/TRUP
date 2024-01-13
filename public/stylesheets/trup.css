@@ -1,0 +1,57 @@
+navbar {
+    z-index: 100;
+}
+
+html {
+    margin: 20px;
+    margin-top: 100px;
+    color-scheme: dark;
+}
+
+body {
+    color: white;
+}
+
+.home-search {
+    width: 100%;
+    position: fixed;
+    top: 60px !important;
+    z-index: 99;
+}
+
+pre {
+    background-color: rgb(30, 30, 30);
+    border-radius: 3px;
+    padding: 5px;
+    padding-left: 10px;
+    color: rgb(200, 200, 200);
+}
+
+pre>label {
+    font-weight: light;
+    font-size: xx-small;
+    /*position: absolute;*/
+    float: right;
+    text-align: right;
+    color: rgb(150, 150, 150);
+    user-select: none;
+    display: block;
+    margin: 0px;
+}
+
+code>.line {
+    color: rgb(150, 150, 150);
+    user-select: none;
+}
+
+code>.comment {
+    color: rgb(150, 200, 150);
+}
+
+code>.ID {
+    color: rgb(150, 150, 250);
+}
+
+code>.string {
+    color: rgb(200, 170, 150);
+}
